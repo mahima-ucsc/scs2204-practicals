@@ -20,6 +20,7 @@ project/plugins/project/
 
 ### Scala ###
 *.class
+*.tasty
 *.log
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
@@ -42,3 +43,7 @@ hs_err_pid*
 **/.history
 
 # End of https://www.gitignore.io/api/visualstudiocode
+
+.metals
+.scala-Build
+.vscode
