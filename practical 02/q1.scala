@@ -1,3 +1,5 @@
+package  p2
+
 @main def question01() = 
     val i, j, k = 2;
     val m, n = 5;

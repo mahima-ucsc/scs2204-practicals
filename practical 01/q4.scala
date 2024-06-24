@@ -1,3 +1,5 @@
+package p1
+
 def coverPrice(numOfCopies: Int) = numOfCopies * 24.5 * 0.6
 
 def shippingCost(numOfCopies: Int ) = 

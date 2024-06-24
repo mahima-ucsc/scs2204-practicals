@@ -1,3 +1,5 @@
+package p1
+
 import scala.math.*
 
 def area(r: Double) = Pi * r * r;
