@@ -5,4 +5,4 @@ def average(num1: Int, num2: Int) : Float =
 
 
 @main def q3() = 
-    println(s"(1 + 2)/2 = ${average(3, 2)}")
+    println(s"(1 + 2)/2 = ${average(1, 2)}")
