@@ -1,7 +1,5 @@
 package p5
 
-import scala.compiletime.ops.string
-
 def getProductList() : List[String]=
     println("Enter product name: ")
     val input = scala.io.StdIn.readLine()
