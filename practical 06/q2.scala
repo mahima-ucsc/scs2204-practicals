@@ -42,5 +42,5 @@ def getStudentInfoWithRetry(): (String, Int, Int, Double, Char) =
             println(x)
             getStudentInfoWithRetry()
 
-@main def q1() =
+@main def q2() =
     printStudentRecord(getStudentInfoWithRetry())
